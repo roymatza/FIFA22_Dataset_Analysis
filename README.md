@@ -19,4 +19,4 @@ The underlying dataset contains player attributes from FIFA 22 for Career Mode (
 ### Usage
 Install imported Python libraries and run notebook (.ipynb) or simply open and run in Google Colab (link inside notebook).
 
-![FIFA22](https://github.com/username/roymatza/FIFA22_Dataset_Analysis/fifa22.jpeg)
+![FIFA22](https://github.com/roymatza/FIFA22_Dataset_Analysis/blob/main/fifa22.jpeg)
